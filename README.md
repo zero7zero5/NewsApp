@@ -4,11 +4,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://www.linkpicture.com/q/Screenshot-23_6.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://www.linkpicture.com/q/Screenshot-23_6.png" alt="project-screenshot">
 
-<img src="https://www.linkpicture.com/q/Screenshot-24_7.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://www.linkpicture.com/q/Screenshot-24_7.png" alt="project-screenshot">
 
-<img src="https://www.linkpicture.com/q/Screenshot-25_6.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://www.linkpicture.com/q/Screenshot-25_6.png" alt="project-screenshot">
 
 <h2>🧐 Features</h2>
 
