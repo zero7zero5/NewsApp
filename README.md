@@ -45,3 +45,4 @@ Technologies used in the project:
 - React
 - News API
 - Next UI
+- Axios
