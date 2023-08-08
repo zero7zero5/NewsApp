@@ -2,20 +2,12 @@
 
 <p id="description">A real-time news application fetches all the recent news worldwide. This application is made with React.js for the front-end part and NewsAPI is used to fetch the news.</p>
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://www.linkpicture.com/q/Screenshot-23_6.png" alt="project-screenshot">
-
-<img src="https://www.linkpicture.com/q/Screenshot-24_7.png" alt="project-screenshot">
-
-<img src="https://www.linkpicture.com/q/Screenshot-25_6.png" alt="project-screenshot">
-
 <h2>Features</h2>
 
 Here're some of the project's best features:
 
 - Clean and Responsive UI
-- Filter the movie based on countires and genres
+- Filter the movie based on countries and genres
 - Dark Mode
 
 <h2>🛠️ Installation Steps:</h2>
